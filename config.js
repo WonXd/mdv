@@ -1,6 +1,6 @@
-global.owner = ['6288217843188'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.owner = ['62895337447795'] // Put your number here
+global.mods = ['62895337447795'] // Want some help?
+global.prems = ['62895337447795'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -41,10 +41,10 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `Reza Temayang`
-global.wm = 'Reza Temayang'
+global.stiker_wait = 'Wait Breee...'
+global.packname = 'Won'
+global.author = `Xd`
+global.wm = '@sampeanikupicek'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://www.instagram.com/reteam.id/'
